@@ -1,0 +1,6 @@
+{
+  "name": "Photo Tourism App",
+  "description": "Snap photos of landmarks to instantly recognize them, retrieve rich search-grounded histories, and enjoy interactive AR-style narrated tours with AI voice guides.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
